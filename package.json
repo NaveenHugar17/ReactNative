@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/netinfo": "^5.9.6",
     "expo": "~38.0.9",
     "expo-image-manipulator": "^8.2.1",
     "expo-image-picker": "^8.4.0",
